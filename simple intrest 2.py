@@ -1,0 +1,5 @@
+p=int(input("enter the value of principle:"))
+q=int(input("enter the value of amount :"))
+r=int(input("enter the value of rate of intrest:"))
+SI=(p*q*r)
+print("the simple intrest is,",SI)
